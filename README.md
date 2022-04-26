@@ -1,6 +1,6 @@
-# parcel-reporter-exec
+# parcel-reporter-auto-exec
 
-[![Build Status](https://drone.aricodes.net/api/badges/aricodes-oss/parcel-reporter-exec/status.svg)](https://drone.aricodes.net/aricodes-oss/parcel-reporter-exec)
+[![Build Status](https://drone.aricodes.net/api/badges/aricodes-oss/parcel-reporter-auto-exec/status.svg)](https://drone.aricodes.net/aricodes-oss/parcel-reporter-auto-exec)
 
 Executes your bundle after building. Useful for NodeJS development, particularly with Express.
 
@@ -9,13 +9,13 @@ Executes your bundle after building. Useful for NodeJS development, particularly
 With `npm`:
 
 ```
-$ npm install --save-dev parcel-reporter-exec
+$ npm install --save-dev parcel-reporter-auto-exec
 ```
 
 With `yarn`:
 
 ```
-$ yarn add --dev parcel-reporter-exec
+$ yarn add --dev parcel-reporter-auto-exec
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ In the `.parcelrc` file for your project, add this to the list of resolvers. A b
 ```json
 {
   "extends": "@parcel/config-default",
-  "reporters": ["parcel-reporter-exec", "..."]
+  "reporters": ["parcel-reporter-auto-exec", "..."]
 }
 ```
 

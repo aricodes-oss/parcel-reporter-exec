@@ -1,5 +1,5 @@
 {
-  "name": "parcel-reporter-exec",
+  "name": "parcel-reporter-auto-exec",
   "version": "1.0.0",
   "description": "Executes your bundle after building. Useful for NodeJS.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aricodes-oss/parcel-reporter-exec.git"
+    "url": "git+https://github.com/aricodes-oss/parcel-reporter-auto-exec.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aricodes-oss/parcel-reporter-exec/issues"
+    "url": "https://github.com/aricodes-oss/parcel-reporter-auto-exec/issues"
   },
-  "homepage": "https://github.com/aricodes-oss/parcel-reporter-exec#readme",
+  "homepage": "https://github.com/aricodes-oss/parcel-reporter-auto-exec#readme",
   "dependencies": {
     "@parcel/plugin": "^2.5.0"
   },
