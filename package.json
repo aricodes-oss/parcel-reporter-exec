@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aricodes-oss/parcel-reporter-auto-exec.git"
+    "url": "git+https://github.com/aricodes-oss/parcel-reporter-exec.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aricodes-oss/parcel-reporter-auto-exec/issues"
+    "url": "https://github.com/aricodes-oss/parcel-reporter-exec/issues"
   },
-  "homepage": "https://github.com/aricodes-oss/parcel-reporter-auto-exec#readme",
+  "homepage": "https://github.com/aricodes-oss/parcel-reporter-exec#readme",
   "dependencies": {
     "@parcel/plugin": "^2.5.0"
   },

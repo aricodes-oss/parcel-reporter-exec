@@ -1,6 +1,6 @@
 # parcel-reporter-auto-exec
 
-[![Build Status](https://drone.aricodes.net/api/badges/aricodes-oss/parcel-reporter-auto-exec/status.svg)](https://drone.aricodes.net/aricodes-oss/parcel-reporter-auto-exec)
+[![Build Status](https://drone.aricodes.net/api/badges/aricodes-oss/parcel-reporter-exec/status.svg)](https://drone.aricodes.net/aricodes-oss/parcel-reporter-exec)
 
 Executes your bundle after building. Useful for NodeJS development, particularly with Express.
 
